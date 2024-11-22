@@ -19,6 +19,8 @@ Em vez de só codar e torcer para que tudo funcione, a engenharia de software en
 
 ### O que são Trade Offs?
 
+Trade-offs são escolhas que fazemos quando não dá para ter tudo ao mesmo tempo. Para ganhar algo, muitas vezes precisamos abrir mão de outra coisa. Isso acontece porque recursos, como tempo, dinheiro ou energia, são limitados. O conceito de trade-off aparece em várias situações, no trabalho, nos estudos e no dia a dia.
+
 1. **Tempo vs. Qualidade**:  
    Quando você tem pouco tempo para fazer algo, pode precisar sacrificar a qualidade. Se quiser algo bem feito, provavelmente vai levar mais tempo.
 
