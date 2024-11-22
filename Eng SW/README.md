@@ -28,7 +28,7 @@ Trade-offs são escolhas que fazemos quando não dá para ter tudo ao mesmo temp
    Produtos melhores normalmente são mais caros. Se você quer economizar dinheiro, talvez precise escolher algo mais simples.
 
 3. **Conforto vs. Economia**:  
-   Para gastar menos, às vezes é preciso abrir mão de conforto. Se você quer mais conforto, terá que pagar mais.
+   Para gastar menos, às vezes é preciso abrir mão de conforto. Se você quer mais conforto, terá que pagar mais
 
 ---
 
