@@ -182,3 +182,9 @@ class LocadoraTest {
     }
 }
 ```
+###  Atividade 4 - 25/11/2024
+
+### Criar modelo UML das classes
+
+![image](UML-Atividade4.png)
+
